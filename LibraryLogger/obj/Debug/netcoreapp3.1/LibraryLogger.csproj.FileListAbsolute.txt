@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\bin\Debug\netcoreapp3.1\LibraryLogger.deps.json
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\bin\Debug\netcoreapp3.1\LibraryLogger.dll
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\netcoreapp3.1\LibraryLogger.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\netcoreapp3.1\LibraryLogger.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\test\netcoreapp3.1\LibraryLogger.deps.json
+C:\Users\Lenovo\Desktop\test\netcoreapp3.1\LibraryLogger.runtimeconfig.json
+C:\Users\Lenovo\Desktop\test\netcoreapp3.1\LibraryLogger.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\test\netcoreapp3.1\LibraryLogger.dll
+C:\Users\Lenovo\Desktop\test\netcoreapp3.1\LibraryLogger.pdb
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\netcoreapp3.1\LibraryLogger.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\netcoreapp3.1\LibraryLogger.dll
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\netcoreapp3.1\LibraryLogger.pdb

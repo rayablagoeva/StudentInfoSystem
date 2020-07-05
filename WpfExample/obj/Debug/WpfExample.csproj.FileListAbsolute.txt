@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\WpfExample\obj\Debug\WpfExample.pdb

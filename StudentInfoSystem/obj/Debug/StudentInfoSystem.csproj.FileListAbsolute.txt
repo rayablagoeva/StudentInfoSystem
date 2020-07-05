@@ -1,0 +1,153 @@
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС копие\New folder\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_ Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\ПС\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Dissertation.g.cs
+C:\Users\Lenovo\Desktop\Програмни среди\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Dissertation.baml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Dissertation.g.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.g.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Dissertation.baml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\Login.baml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\StudentInfoSystem\bin\Debug\LibraryLogger.dll

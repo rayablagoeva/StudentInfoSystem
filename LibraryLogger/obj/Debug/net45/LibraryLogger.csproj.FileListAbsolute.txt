@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\test\net45\LibraryLogger.dll
+C:\Users\Lenovo\Desktop\test\net45\LibraryLogger.pdb
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.dll
+C:\Users\Lenovo\Desktop\PS_40_121217093_RayaBlagoeva_6upr\PS_40 Raia Blagoeva\LibraryLogger\obj\Debug\net45\LibraryLogger.pdb

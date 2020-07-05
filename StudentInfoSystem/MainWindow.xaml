@@ -1,0 +1,90 @@
+﻿<Window x:Class="StudentInfoSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="Студентска информационна система" Height="500" Width="700" Background="#FFF1EBEB">
+    <Window.DataContext>
+        <local:MainFormVM/>
+    </Window.DataContext>
+    <Grid x:Name="MainGrid" Background="#FFF6F6F6" Margin="0,0,-6.4,-83.6" RenderTransformOrigin="0.5,0.5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="122*"/>
+            <RowDefinition Height="219*"  />
+            <RowDefinition Height="212*"  />
+
+        </Grid.RowDefinitions>
+
+
+        <GroupBox  Grid.Row="0" x:Name="grUser" Header="Лични данни" HorizontalAlignment="Left" Height="122" VerticalAlignment="Top" Width="584" Background="#FFF6F6F6" Margin="6,0,0,0" BorderBrush="#FFABAFD1">
+
+            <Grid x:Name="User">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="19*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30.4"/>
+                    <RowDefinition Height="28.8"  />
+                    <RowDefinition Height="Auto" MinHeight="28"/>
+                </Grid.RowDefinitions>
+
+                <TextBox x:Name="name6" Text="{Binding Student.surName}"  IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="20.4,6.2,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Grid.Row="2" Grid.Column="1"/>
+                <Label x:Name="name2" Content="Презиме:" HorizontalAlignment="Left" Margin="10,3.8,0,0" RenderTransformOrigin="1.571,-0.149" Width="61" Grid.Row="1" Grid.RowSpan="2" Height="26" VerticalAlignment="Top"/>
+                <Label x:Name="name3" Content="Фамилия:" HorizontalAlignment="Left" Margin="10,3.2,0,0" VerticalAlignment="Top" Height="26" Width="62" Grid.Row="2"/>
+                <TextBox x:Name="name5" Text="{Binding Student.secondName}"  IsEnabled="{Binding FormEnabled}"  HorizontalAlignment="Left" Height="18" Margin="20.4,5.8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" BorderBrush="#FFABAFD1" Grid.Row="1" Grid.Column="1"/>
+                <Label x:Name="name1" Content="Име:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5,0,0" Height="33" Width="61" FontSize="13" Grid.RowSpan="2"/>
+                <TextBox x:Name="name4" Text="{Binding Student.name}"  IsEnabled="{Binding FormEnabled}"  HorizontalAlignment="Left" Height="18" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Margin="20.4,6,0,0" BorderBrush="#FFABAFD1" Grid.Column="1" />
+            </Grid>
+        </GroupBox>
+        <GroupBox  x:Name="std" Header="Студентска информация" Height="205" Margin="6,0,0,2.6" VerticalAlignment="Bottom" BorderBrush="#FFABAFD1" HorizontalAlignment="Left" Width="577" Grid.Row="1">
+            <Grid x:Name="st" Margin="0,-3,-0.2,3.4" Height="182" VerticalAlignment="Bottom">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="377*" />
+                    <ColumnDefinition Width="188*" />
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"  />
+                    <RowDefinition Height="35" />
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <TextBox x:Name="course" Text="{Binding Student.course}"  IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="66.2,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" Grid.Column="1" Grid.Row="2" />
+                <Label Content="Факултет:"   HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Height="26" Width="62"/>
+                <TextBox x:Name="specialty"  Text="{Binding Student.specialty}"  IsEnabled="{Binding FormEnabled}" Height="18" Margin="104,10,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" BorderBrush="#FFABAFD1" HorizontalAlignment="Left" Width="231"/>
+                <Label Content="Специалност:" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Height="26" Width="85" Grid.Row="1"/>
+                <Label Content="ОКС:"  HorizontalAlignment="Left" Margin="10,7,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" Width="37" RenderTransformOrigin="0.789,0.838"/>
+                <TextBox x:Name="degree" Text="{Binding Student.degree}"  IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="104,12,0,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" BorderBrush="#FFABAFD1"/>
+                <Label Content="Статус:"   HorizontalAlignment="Left" Margin="10,9,0,0" Grid.Row="3" VerticalAlignment="Top" Height="26" Width="48" RenderTransformOrigin="0.958,-3.623"/>
+                <ListBox x:Name="statusListBox" ItemsSource="{Binding StudStatusChoices}" HorizontalAlignment="Left" Height="29"  Grid.Row="3" VerticalAlignment="Top" Width="229" Margin="106,10,0,0" Grid.RowSpan="2"/>
+                <Label Content="Фак.номер:" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="4" VerticalAlignment="Top" Height="26" Width="72"/>
+                <TextBox x:Name="facNumber" Text="{Binding Student.facNumber}"  IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="104,15,0,0" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" BorderBrush="#FFABAFD1"/>
+                <Label Content="Курс:"   Margin="10.2,0,107.8,2" VerticalAlignment="Bottom" Height="28" Grid.Column="1" Grid.Row="2"/>
+
+                <Label Content="Поток:" Margin="10.2,7,121.8,0" VerticalAlignment="Top" Height="26" Grid.Column="1" Grid.Row="1"/>
+                <Label Content="Група:" Margin="10.2,7,121.8,0" VerticalAlignment="Top" Height="28" Grid.Column="1"/>
+                <TextBox x:Name="faculty" Text="{Binding Student.faculty}"  IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="104,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" />
+                <TextBox x:Name="potok" Text="{Binding Student.potok}" IsEnabled="{Binding FormEnabled}"  Margin="66.2,10,0,0" TextWrapping="Wrap" HorizontalAlignment="Left" Width="89" Grid.Column="1" Height="18" VerticalAlignment="Top" Grid.Row="1" RenderTransformOrigin="0.004,0.378"/>
+                <TextBox x:Name="group" Text="{Binding Student.group}" IsEnabled="{Binding FormEnabled}" HorizontalAlignment="Left" Height="18" Margin="66.2,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" Grid.Column="1"/>
+
+
+
+            </Grid>
+
+        </GroupBox>
+        <Button  Grid.Row="2" Content="Delete" Command="{Binding ClearCommand}"   HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="75" Margin="135,0,0,163.6"  Height="19"/>
+        <CheckBox  Grid.Row="2" Content="CheckBox" Command="{Binding DisableCommand}" HorizontalAlignment="Left" Margin="241,29.4,0,155.6" Width="83" RenderTransformOrigin="0.5,0.5" />
+        <Button Content="Button"  HorizontalAlignment="Left" Margin="384,27.4,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button x:Name="tema" Content="Избор на дипломна работа" HorizontalAlignment="Left" Margin="491,26.4,0,0" Grid.Row="2" VerticalAlignment="Top" Width="170" Height="20" Click="tema_Click"/>
+
+
+    </Grid>
+</Window>

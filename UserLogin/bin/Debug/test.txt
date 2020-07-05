@@ -1,0 +1,78 @@
+5.3.2020 г. 10:25:29;student;STUDENT;Успешен Login
+5.3.2020 г. 10:25:30;student;STUDENT;student is inactive user tries to login
+5.3.2020 г. 10:25:41;student;STUDENT;Успешен Login
+5.3.2020 г. 10:25:41;student;STUDENT;student is inactive user tries to login
+5.3.2020 г. 11:01:31;student1;STUDENT;Успешен Login
+11.3.2020 г. 23:28:48;admin;ADMIN;Успешен Login
+11.3.2020 г. 23:30:40;admin;ADMIN;Успешен Login
+11.3.2020 г. 23:30:46;admin;ADMIN;Промяна на роля на student
+27.4.2020 г. 23:04:09;student;STUDENT;Успешен Login
+29.4.2020 г. 12:01:37;student;STUDENT;Успешен Login
+29.4.2020 г. 12:02:46;student;STUDENT;Успешен Login
+29.4.2020 г. 12:08:52;student;STUDENT;Успешен Login
+29.4.2020 г. 12:12:15;student;STUDENT;Успешен Login
+29.4.2020 г. 12:18:03;student;STUDENT;Успешен Login
+29.4.2020 г. 12:19:51;student;STUDENT;Успешен Login
+29.4.2020 г. 17:34:02;student;STUDENT;Успешен Login
+29.4.2020 г. 17:51:39;student;STUDENT;Успешен Login
+29.4.2020 г. 18:02:06;student;STUDENT;Успешен Login
+29.4.2020 г. 18:04:47;student;STUDENT;Успешен Login
+29.4.2020 г. 19:02:10;student;STUDENT;Успешен Login
+29.4.2020 г. 19:07:34;student;STUDENT;Успешен Login
+29.4.2020 г. 19:10:54;student;STUDENT;Успешен Login
+29.4.2020 г. 19:12:17;student;STUDENT;Успешен Login
+1.5.2020 г. 22:05:00;admin;ADMIN;Успешен Login
+1.5.2020 г. 22:05:14;admin;ADMIN;Промяна на роля на student
+1.5.2020 г. 22:06:06;admin;ADMIN;Успешен Login
+1.5.2020 г. 22:06:14;admin;ADMIN;Промяна на роля на student
+1.5.2020 г. 22:43:23;admin;ADMIN;Успешен Login
+1.5.2020 г. 22:44:05;admin;ADMIN;Успешен Login
+1.5.2020 г. 23:03:11;student;STUDENT;Успешен Login
+1.5.2020 г. 23:06:34;admin;ADMIN;Успешен Login
+1.5.2020 г. 23:12:00;admin;ADMIN;Успешен Login
+1.5.2020 г. 23:14:03;admin;ADMIN;Успешен Login
+1.5.2020 г. 23:15:09;student;STUDENT;Успешен Login
+1.5.2020 г. 23:15:22;admin;ADMIN;Успешен Login
+4.5.2020 г. 13:05:30;student;STUDENT;Успешен Login
+8.5.2020 г. 10:16:58;student;STUDENT;Успешен Login
+8.5.2020 г. 10:17:29;admin;ADMIN;Успешен Login
+22.5.2020 г. 19:29:45;student;STUDENT;Успешен Login
+2.6.2020 г. 14:00:49;student;STUDENT;Успешен Login
+2.6.2020 г. 18:11:15;student;STUDENT;Успешен Login
+2.6.2020 г. 18:13:33;student;STUDENT;Успешен Login
+2.6.2020 г. 18:15:13;admin;ADMIN;Успешен Login
+2.6.2020 г. 18:15:57;student2;INSPECTOR;Промяна на роля на student2
+2.6.2020 г. 18:28:17;student;STUDENT;Успешен Login
+2.6.2020 г. 18:28:42;admin;ADMIN;Успешен Login
+2.6.2020 г. 18:28:51;admin;ADMIN;Промяна на роля на student2
+9.6.2020 г. 18:38:00;student;STUDENT;Успешен Login
+9.6.2020 г. 18:38:14;admin;ADMIN;Успешен Login
+9.6.2020 г. 18:38:27;admin;ADMIN;Промяна на роля на student2
+9.6.2020 г. 18:43:48;admin;ADMIN;Успешен Login
+9.6.2020 г. 18:44:12;admin;ADMIN;Успешен Login
+9.6.2020 г. 18:44:43;admin;ADMIN;Успешен Login
+9.6.2020 г. 18:44:51;admin;ADMIN;Промяна на роля на student2
+9.6.2020 г. 19:12:26;admin;ADMIN;Успешен Login
+9.6.2020 г. 19:12:46;admin;ADMIN;Промяна на активност на student2
+10.6.2020 г. 23:55:37;student;STUDENT;Успешен Login
+11.6.2020 г. 2:07:44;student;STUDENT;Успешен Login
+11.6.2020 г. 10:53:29;admin;ADMIN;Успешен Login
+11.6.2020 г. 10:53:54;admin;ADMIN;Промяна на роля на student
+11.6.2020 г. 10:55:20;student;ADMIN;Успешен Login
+11.6.2020 г. 10:56:04;admin;ADMIN;Успешен Login
+11.6.2020 г. 10:56:11;admin;ADMIN;Промяна на роля на student
+11.6.2020 г. 10:56:23;admin;ADMIN;Успешен Login
+11.6.2020 г. 10:56:39;admin;ADMIN;Промяна на активност на student2
+11.6.2020 г. 11:03:21;;;Опит за вписване от несъществуващ потребител с име: efergerggr и парола: gergreheh:
+11.6.2020 г. 13:24:40;student;STUDENT;Успешен Login
+12.6.2020 г. 20:35:48;student;STUDENT;Успешен Login
+12.6.2020 г. 20:44:02;student;STUDENT;Успешен Login
+12.6.2020 г. 20:50:06;student;STUDENT;Успешен Login
+12.6.2020 г. 20:50:26;student;STUDENT;Успешен Login
+12.6.2020 г. 20:50:35;student2;INSPECTOR;Успешен Login
+12.6.2020 г. 20:56:13;student;STUDENT;Успешен Login
+12.6.2020 г. 20:56:37;admin;ADMIN;Успешен Login
+12.6.2020 г. 20:59:15;student;STUDENT;Успешен Login
+13.6.2020 г. 11:18:29;student;STUDENT;Успешен Login
+13.6.2020 г. 11:18:58;student2;INSPECTOR;Успешен Login
+13.6.2020 г. 11:19:24;admin;ADMIN;Успешен Login

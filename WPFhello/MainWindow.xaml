@@ -1,0 +1,54 @@
+﻿<Window x:Class="WPFhello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFhello"
+        mc:Ignorable="d"
+        Title="Hello word!" Height="450" Width="800"
+        Closing="Window_Closing">
+    <Grid x:Name="MainGrid" Background="#FFEAEAEA" Margin="0,10,3.6,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="535*"/>
+            <ColumnDefinition Width="117*"/>
+            <ColumnDefinition Width="142*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="187*"/>
+        </Grid.RowDefinitions>
+        <GroupBox x:Name="grUser" Header="Потребител" HorizontalAlignment="Left" Height="190" VerticalAlignment="Top" Width="543" Margin="19,6.2,0,0" Background="#FFE5E5E5" Grid.ColumnSpan="2" Grid.Row="1"/>
+
+        <Label x:Name="name1" Content="Име:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,28.2,0,0" Height="33" Width="61" FontSize="13" Grid.Row="1"/>
+
+        <Button x:Name="btn" Content="Здрасти!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="89" Margin="188,168.2,0,0" Click="btn_Click" BorderBrush="#FFA28484" Background="#FFD7D7D7" Height="24" Grid.Row="1"/>
+        <TextBox x:Name="name4" HorizontalAlignment="Left" Height="33" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Margin="80,28.2,0,0" Grid.Row="1"/>
+        <Grid HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="100" Margin="0,28.4,0,0" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="75*"/>
+                <ColumnDefinition Width="24*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="37*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Label Content="Hello,WPF!!" HorizontalAlignment="Left" Margin="80,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="592" FontSize="16"/>
+        <Label x:Name="name2" Content="Име" HorizontalAlignment="Left" Margin="31,78.2,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="1.571,-0.149"/>
+        <Label x:Name="name3" Content="Име" HorizontalAlignment="Left" Margin="27,129.2,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox x:Name="name5" HorizontalAlignment="Left" Height="33" Margin="80,77.2,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="295"/>
+        <TextBox x:Name="name6" HorizontalAlignment="Left" Height="31" Margin="80,126.2,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="294"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Background="Bisque" TextWrapping="Wrap" Text="Hello, XAML!" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="ArialBlack" Margin="395,134.2,8.8,217.4" Grid.Row="1">
+             I edit XAML myself!
+        </TextBlock>
+        <Button HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="140" Grid.ColumnSpan="3" Margin="0,0,10.87,0.4" Grid.Row="1" Click="Button_Click">
+            Click me!
+        </Button>
+        <ListBox x:Name="peopleListBox" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="83.2,10.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100">
+            <ListBoxItem Content="Mike "/>
+            <ListBoxItem Content="Mary"/>
+            <ListBoxItem Content="John"/>
+            <ListBoxItem Content="Lisa"/>
+        </ListBox>
+        <Button x:Name="greeting" Content="Greeting" Grid.Column="1" HorizontalAlignment="Left" Margin="83.2,110.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Grid.ColumnSpan="2" Click="Button_Click_1"/>
+    </Grid>
+</Window>
